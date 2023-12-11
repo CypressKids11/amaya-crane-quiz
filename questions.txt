@@ -1,0 +1,15 @@
+Topic: Horses
+
+Question 1: What breed is this?
+Arabian <- | Friesian | Thouroghbred | Andalusion
+
+Question 2: What breed is this?
+Thouroghbred <-| Andalusion | Shetland pony | Hanovirean | 
+
+Which horse breed has true white (not grey) horses? What breed is this?
+Qurter horse | pegasus | Zebra | Akhal-Teke |
+
+ Question 4 : Which one is NOT an American horse breed?
+Appaloosa/Mustang/Paint/Haflinger
+
+Question 5 : Which horse breed has true white (not grey) horses? 
